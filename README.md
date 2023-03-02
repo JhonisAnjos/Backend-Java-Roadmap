@@ -32,7 +32,7 @@
 * Redis
 
 ## 6. APIs
-* REST
+* [REST](https://medium.com/trainingcenter/introdu%C3%A7%C3%A3o-rest-7ec4cefd16c8)
 * JSON APIs
 * gRPC
 * GraphQL
@@ -75,7 +75,7 @@
 * Twelve Factor Apps
 
 ## 13. Message Brokers
-* RabbitMQ
+* [RabbitMQ](https://william-reges1986.medium.com/iniciando-com-rabbitmq-89132fa8ef17)
 * Kafka
 
 ## 14. Conteinerização vs Virtualização
