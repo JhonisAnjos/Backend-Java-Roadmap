@@ -5,7 +5,7 @@
 ## 1. Internet
 
 ## 2. Controle de versão
-* Git
+* [Git](https://alexribeiro.com.br/git-um-grande-aliado-71bbebba24e3)
 * GitHub
 * [Git Flow](https://medium.com/trainingcenter/utilizando-o-fluxo-git-flow-e63d5e0d5e04)
 
