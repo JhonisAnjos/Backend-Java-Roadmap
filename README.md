@@ -7,6 +7,7 @@
 ## 2. Controle de versão
 * Git
 * GitHub
+* [Git Flow](https://medium.com/trainingcenter/utilizando-o-fluxo-git-flow-e63d5e0d5e04)
 
 ## 3. Comandos básicos no terminal
 * grep
